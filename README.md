@@ -1,5 +1,4 @@
 <h1> jwmsg's Notice repository </hr>
-<hr>
 <pre>
 [2018 - 06 - 15 (fri)]<br>
 I'm going to clean up my another github account.<br>
